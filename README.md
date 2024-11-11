@@ -32,7 +32,7 @@ Once it's done, go to the project folder:
    cd my-app
 
 Start the React development server:
-    ```bash
+     ```bash
     npm start
 Open your browser and go to `http://localhost:3000` to see your new React app running!
 
