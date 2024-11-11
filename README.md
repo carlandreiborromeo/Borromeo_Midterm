@@ -6,6 +6,10 @@ This guide will walk you through setting up a basic React project.
 
 ## What is React?
 
+React is a popular JavaScript library developed by Facebook for building dynamic and interactive user interfaces, especially for single-page applications. It allows developers to create reusable components, manage application state efficiently, and update the user interface in response to data changes using the Virtual DOM. React uses JSX (JavaScript XML) to combine HTML-like syntax with JavaScript, making it easier to define UI structures. With features like hooks for managing state and side effects, along with a one-way data flow, React simplifies the development of scalable and performant applications. Its large ecosystem, including tools like React Router and Redux, further enhances its capabilities for building modern web apps.
+
+## download the following:
+
 1. **Visual Studio Code (VS Code)** - This is a code editor where you can write and organize your code.
 2. **Node.js** - A JavaScript runtime that includes `npm` (Node Package Manager), which helps to install React and its dependencies.
 
@@ -54,8 +58,8 @@ Inside your project, you’ll see folders like these:
 
 ## Helpful Resources
 
-[React Documentation](https://react.dev/blog/2023/03/16/introducing-react-dev){:target="_blank"}
+<a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank">React Documentation</a>
 
-[JavaScript Documentation](https://www.w3schools.com/js/){:target="_blank"}
+<a href="https://www.w3schools.com/js/" target="_blank">JavaScript Documentation</a>
 
-[React Video Tutorial](https://www.youtube.com/watch?v=hn80mWvP-9g&list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ){:target="_blank"}
+<a href="https://www.youtube.com/watch?v=hn80mWvP-9g&list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ" target="_blank">React Video Tutorial</a>
