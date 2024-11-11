@@ -36,11 +36,11 @@ After that fill up the following that shows up:
    ```
 
 Once it's done, run the following that appears on the terminal:
-     ```bash
+   ```bash
     cd my-react-app
     npm install
     npm run dev
-    ```
+   ```
 the `my-react-app` is the name name or should be the name of your folder.
 
 Open your browser and copy and paste the link on `local host` to see your new React app running!
