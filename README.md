@@ -16,7 +16,7 @@ This guide will walk you through setting up a basic React project.
    ```bash
    node -v
    npm -v
-You should see version numbers for both node and npm.
+You should see version numbers for both `node` `and npm`.
 
 ## Step 2: Set Up a React Project
 
@@ -24,24 +24,24 @@ You should see version numbers for both node and npm.
 2. Go to the folder where you want to create your project, or create a new one.
 3. In the terminal, type the following command to create a new React app:
    ```bash
-npx create-react-app my-app
+   npx create-react-app my-app
 Replace `my-app` with whatever you want to name your project.
 
 Once it's done, go to the project folder:
     ```bash
-cd my-app
+   cd my-app
 
 Start the React development server:
     ```bash
-npm start
+   npm start
 Open your browser and go to http://localhost:3000 to see your new React app running!
 
 ## Project Folder Overview
 Inside your project, you’ll see folders like these:
 
-`public/` - Stores static files like `index.html`.
-`src/` - Contains JavaScript files and React components (like `App.js`).
-`node_modules/` - Contains installed packages.
+`public/`-Stores static files like `index.html`.
+`src/`-Contains JavaScript files and React components (like `App.js`).
+`node_modules/`-Contains installed packages.
 
 ## Helpful Resources
 
