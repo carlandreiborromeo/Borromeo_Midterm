@@ -17,7 +17,7 @@ React is a popular JavaScript library developed by Facebook for building dynamic
 
 1. Go to the [Node.js website](https://nodejs.org/) and download the latest **LTS version** for your computer.
 2. Install Node.js, and to check if it’s installed correctly, open your terminal and run:
-   ```bash
+```bash
    node -v
    npm -v
    ```
