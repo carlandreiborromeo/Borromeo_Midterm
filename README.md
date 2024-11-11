@@ -58,8 +58,7 @@ Inside your project, you’ll see folders like these:
 
 ## Helpful Resources
 
-<a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank">React Documentation</a>
+- <a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank">React Documentation</a> – Great for learning more about React.
+- <a href="https://www.w3schools.com/js/" target="_blank">JavaScript Documentation</a> – Helpful for brushing up on JavaScript.
+- <a href="https://www.youtube.com/watch?v=hn80mWvP-9g&list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ" target="_blank">React</a> – A live demonstration for learning and setting up React.
 
-<a href="https://www.w3schools.com/js/" target="_blank">JavaScript Documentation</a>
-
-<a href="https://www.youtube.com/watch?v=hn80mWvP-9g&list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ" target="_blank">React Video Tutorial</a>
