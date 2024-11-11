@@ -28,7 +28,7 @@ You should see version numbers for both `node` and `npm`.
 1. Open VS Code and Open the terminal in VS Code (click on View > Terminal).
 2. Go to the folder where you want to create your project, or create a new one.
 3. In the terminal, type the following command to create a new React app:
-   ```bash
+```bash
    npm create vite@latest
    ```
 
