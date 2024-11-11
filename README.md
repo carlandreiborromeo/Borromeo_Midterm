@@ -29,11 +29,11 @@ Replace `my-app` with whatever you want to name your project.
 
 Once it's done, go to the project folder:
     ```bash
-    cd my-app
+   cd my-app
 
 Start the React development server:
     ```bash
-    npm start
+   npm start
 Open your browser and go to `http://localhost:3000` to see your new React app running!
 
 ## Project Folder Overview
