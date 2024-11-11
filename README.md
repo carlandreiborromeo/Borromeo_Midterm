@@ -33,7 +33,7 @@ Once it's done, go to the project folder:
 
 Start the React development server:
     ```bash
-   npm start
+    npm start
 Open your browser and go to `http://localhost:3000` to see your new React app running!
 
 ## Project Folder Overview
@@ -45,5 +45,6 @@ Inside your project, you’ll see folders like these:
 
 ## Helpful Resources
 
-[React Documentation](https://react.dev/blog/2023/03/16/introducing-react-dev) - Great for learning more about React.<br>
-[JavaScript Documentation](https://www.w3schools.com/js/) - Helpful for brushing up on JavaScript.<br>
+- <a href="https://react.dev/blog/2023/03/16/introducing-react-dev" target="_blank">React Documentation</a> – Great for learning more about React.
+- <a href="https://www.w3schools.com/js/" target="_blank">JavaScript Documentation</a> – Helpful for brushing up on JavaScript.
+
