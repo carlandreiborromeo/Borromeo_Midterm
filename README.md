@@ -28,20 +28,22 @@ npx create-react-app my-app
 Replace `my-app` with whatever you want to name your project.
 
 Once it's done, go to the project folder:
-   ```bash
+    ```bash
 cd my-app
 
 Start the React development server:
-   ```bash
+    ```bash
 npm start
 Open your browser and go to http://localhost:3000 to see your new React app running!
 
-Project Folder Overview
+## Project Folder Overview
 Inside your project, you’ll see folders like these:
 
-public/ - Stores static files like `index.html`.
-src/ - Contains JavaScript files and React components (like `App.js`).
-node_modules/ - Contains installed packages.
-Helpful Resources
-React Documentation - Great for learning more about React.
-JavaScript Documentation - Helpful for brushing up on JavaScript.
+`public/` - Stores static files like `index.html`.
+`src/` - Contains JavaScript files and React components (like `App.js`).
+`node_modules/` - Contains installed packages.
+
+## Helpful Resources
+
+[React Documentation](https://react.dev/blog/2023/03/16/introducing-react-dev) - Great for learning more about React.
+[JavaScript Documentation](https://www.w3schools.com/js/) - Helpful for brushing up on JavaScript.
